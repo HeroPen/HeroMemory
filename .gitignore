@@ -1,0 +1,20 @@
+# Build output
+target/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Java
+*.class
+*.jar
+!lib/*.jar
+
+# Temp
+sources.txt
